@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1540402624 source:c:\users\digo\desktop\arkol\main.cpp
+	"config.h"
+	"cenario.h"
+
+1540402536 c:\users\digo\desktop\arkol\config.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1540402563 c:\users\digo\desktop\arkol\cenario.h
+	"config.h"
+
+1540402727 source:c:\users\digo\desktop\arkol\cenario.cpp
+	"cenario.h"
+
+1540931300 source:c:\users\digo\documents\sinx\programação\arkol\cenario.cpp
+	"cenario.h"
+
+1540931300 c:\users\digo\documents\sinx\programação\arkol\cenario.h
+	"config.h"
+
+1541212780 c:\users\digo\documents\sinx\programação\arkol\config.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1541212837 source:c:\users\digo\documents\sinx\programação\arkol\main.cpp
+	"config.h"
+	"archer.h"
+	"cenario.h"
+	"knight.h"
+
+1541212605 source:c:\users\digo\documents\sinx\programação\arkol\colisor.cpp
+	"colisor.h"
+
+1541211765 c:\users\digo\documents\sinx\programação\arkol\colisor.h
+	"config.h"
+
+1541215686 source:c:\users\digo\documents\sinx\programação\arkol\archer.cpp
+	"archer.h"
+	"flecha.h"
+
+1540941046 c:\users\digo\documents\sinx\programação\arkol\archer.h
+	"config.h"
+	"colisor.h"
+	"golpe.h"
+
+1541212605 source:c:\users\digo\documents\sinx\programação\arkol\flecha.cpp
+	"flecha.h"
+
+1541212302 c:\users\digo\documents\sinx\programação\arkol\flecha.h
+	"golpe.h"
+
+1541212302 c:\users\digo\documents\sinx\programação\arkol\golpe.h
+	"colisor.h"
+	"config.h"
+
+1541212605 source:c:\users\digo\documents\sinx\programação\arkol\golpe.cpp
+	"golpe.h"
+
+1541212605 source:c:\users\digo\documents\sinx\programação\arkol\inimigo.cpp
+	"inimigo.h"
+
+1541018330 c:\users\digo\documents\sinx\programação\arkol\inimigo.h
+	"colisor.h"
+	"archer.h"
+	"golpe.h"
+
+1541215775 source:c:\users\digo\documents\sinx\programação\arkol\knight.cpp
+	"knight.h"
+	"espada.h"
+
+1541211661 c:\users\digo\documents\sinx\programação\arkol\knight.h
+	"inimigo.h"
+
+1541208247 source:c:\users\digo\documents\sinx\programação\arkol\espada.cpp
+	"espada.h"
+
+1541207801 c:\users\digo\documents\sinx\programação\arkol\espada.h
+	"golpe.h"
+
+1541215686 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\archer.cpp
+	"archer.h"
+	"flecha.h"
+
+1540941046 c:\users\digo\documents\sinx\programação\git\arkol\arkol\archer.h
+	"config.h"
+	"colisor.h"
+	"golpe.h"
+
+1541212780 c:\users\digo\documents\sinx\programação\git\arkol\arkol\config.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1541211765 c:\users\digo\documents\sinx\programação\git\arkol\arkol\colisor.h
+	"config.h"
+
+1541212302 c:\users\digo\documents\sinx\programação\git\arkol\arkol\golpe.h
+	"colisor.h"
+	"config.h"
+
+1541212302 c:\users\digo\documents\sinx\programação\git\arkol\arkol\flecha.h
+	"golpe.h"
+
+1540931300 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\cenario.cpp
+	"cenario.h"
+
+1540931300 c:\users\digo\documents\sinx\programação\git\arkol\arkol\cenario.h
+	"config.h"
+
+1541212605 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\colisor.cpp
+	"colisor.h"
+
+1541208247 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\espada.cpp
+	"espada.h"
+
+1541207801 c:\users\digo\documents\sinx\programação\git\arkol\arkol\espada.h
+	"golpe.h"
+
+1541212605 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\flecha.cpp
+	"flecha.h"
+
+1541212605 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\golpe.cpp
+	"golpe.h"
+
+1541212605 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\inimigo.cpp
+	"inimigo.h"
+
+1541018330 c:\users\digo\documents\sinx\programação\git\arkol\arkol\inimigo.h
+	"colisor.h"
+	"archer.h"
+	"golpe.h"
+
+1541212837 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\main.cpp
+	"config.h"
+	"archer.h"
+	"cenario.h"
+	"knight.h"
+
+1541211661 c:\users\digo\documents\sinx\programação\git\arkol\arkol\knight.h
+	"inimigo.h"
+
+1541216163 source:c:\users\digo\documents\sinx\programação\git\arkol\arkol\knight.cpp
+	"knight.h"
+	"espada.h"
+

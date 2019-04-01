@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Arkol" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/Arkol" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="archer.cpp" />
+		<Unit filename="archer.h" />
+		<Unit filename="cenario.cpp" />
+		<Unit filename="cenario.h" />
+		<Unit filename="colisor.cpp" />
+		<Unit filename="colisor.h" />
+		<Unit filename="config.h" />
+		<Unit filename="espada.cpp" />
+		<Unit filename="espada.h" />
+		<Unit filename="flecha.cpp" />
+		<Unit filename="flecha.h" />
+		<Unit filename="golpe.cpp" />
+		<Unit filename="golpe.h" />
+		<Unit filename="inimigo.cpp" />
+		<Unit filename="inimigo.h" />
+		<Unit filename="knight.cpp" />
+		<Unit filename="knight.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
